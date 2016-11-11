@@ -1,5 +1,6 @@
 {
   "name": "react-overlay-popup",
+  "version": "4.0.2",
   "description": "Overlay and popup components for React.",
   "standard": {
     "parser": "babel-eslint"
