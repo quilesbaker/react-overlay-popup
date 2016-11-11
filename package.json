@@ -1,23 +1,8 @@
 {
   "name": "react-overlay-popup",
-  "version": "4.0.2",
   "description": "Overlay and popup components for React.",
-  "main": "lib/index.js",
-  "jsnext:main": "es6/index.js",
-  "files": [
-    "css",
-    "es6",
-    "lib",
-    "umd"
-  ],
   "standard": {
     "parser": "babel-eslint"
-  },
-  "scripts": {
-    "build": "nwb build",
-    "clean": "nwb clean",
-    "start": "nwb serve",
-    "test": "nwb test"
   },
   "dependencies": {
     "invariant": "^2.2.0"
@@ -36,21 +21,12 @@
     "react-dom": "0.14.x",
     "standard": "^6.0.5"
   },
-  "author": "Thai Pangsakulyanont @ Taskworld <thai.p@taskworld.com>",
-  "homepage": "https://github.com/taskworld/react-overlay-popup#readme",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/taskworld/react-overlay-popup.git"
-  },
   "keywords": [
     "react-component"
   ],
   "directories": {
     "doc": "docs",
     "test": "tests"
-  },
-  "bugs": {
-    "url": "https://github.com/taskworld/react-overlay-popup/issues"
   }
 }
